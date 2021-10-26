@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Dit is een Html-doculment</title>
+    </head>
+    <body>
+        <h1>Dit is een HTML document</h1>
+        <H2>de elementen</H2>
+        <ul>
+            <li>de elementen geven structuur en context aan de inhoud</li>
+            <li>de elementen kunnen ook gebruikt worden om de inhoud op te maken</li>
+        </ul>
+        <H3>De inhoud</H3>
+        <p>
+            de inhoud kan onder andere bestaan uit een tekst, beeld of oplijsting. de tekst kan <strong>vet</strong> ,<u>onderlijnd</u> of <em>cursief</em> getoond worden. 
+        </p>
+        <p>
+            het beeld hieronder kan je vinden via <a href="https://shahpourpouyan.com/wp-content/uploads/2018/10/orionthemes-plaholder-image-1.png">https://shahpourpouyan.com/wp-content/uploads/2018/10/orionthemes-plaholder-image-1.pngen</a> wordt getoond met een grote van 600pixels
+        </p>
+        <p>
+            als je er op klikt ga je naar <a href="hhtps://www.google.be">https://google.com </a> 
+        </p>
+        <a href="Https://google.be" target="_blank">
+            <img src="https://shahpourpouyan.com/wp-content/uploads/2018/10/orionthemes-plaholder-image-1.png" alt="alternatieve tekst" 
+            width="600" height="600" />
+        </a>
+        <p> een oplijsting kan ook geordend zijn:</p>
+            
+                <ol type="A">
+                    <li>optie A</li>
+                    <li>optie B</li>
+                    <li>optie C</li>
+                </ol>
+            </body>
+        </html>
